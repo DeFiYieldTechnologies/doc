@@ -22,6 +22,8 @@ intended, coding risks, financial risks, liquidity risks, and legal and regulato
 based and that User may be subject to criminal proceedings or financial penalties for use of the
 App; and
 8. User has not relied on any financial, legal or tax advice of any kind from the Indemnified Parties.
+
+
 Without limiting the generality of the foregoing, User agrees that in no event or circumstance shall the
 Indemnified Parties be liable for damages of any kind, under any legal theory, in any legal jurisdiction,
 arising out of or in connection with the User’s use or inability to use the App. The Indemnified Parties
